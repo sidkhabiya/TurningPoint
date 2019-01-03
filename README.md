@@ -18,8 +18,8 @@
 | 2 | `clawFlip` |  |
 | 3 | `driveLeftFront` | Left front drive motor |
 | 4 | `driveLeftBack` | Left back drive motor |
-| 5 | `liftBottom` | Lift bottom motor |
-| 6 | `liftTop` | Lift top motor |
+| 5 | `liftBottom` | Lift bottom motors |
+| 6 | `liftTop` | Lift top motors |
 | 7 | `driveRightFront` | Right front drive motor |
 | 8 | `driveRightBack` | Right back drive motor |
 | 9 | `conveyor` | Conveyor motor |
