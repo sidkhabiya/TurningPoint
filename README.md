@@ -15,7 +15,7 @@
 | Motor Port | Motor Name | Function |
 |-------------|------|----------|
 | 1 | `flywheelLeft` | Left flywheel motor |
-| 2 | `clawFlip` |  |
+| 2 | `clawFlip` | Claw motor |
 | 3 | `driveLeftFront` | Left front drive motor |
 | 4 | `driveLeftBack` | Left back drive motor |
 | 5 | `liftBottom` | Lift bottom motors |
